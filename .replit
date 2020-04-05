@@ -1,2 +1,2 @@
 language = "cpp"
-run = "echo run hello world"
+run = "echo hello world"
